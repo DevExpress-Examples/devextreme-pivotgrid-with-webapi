@@ -3,14 +3,22 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T1170929)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# PivotGrid with WebAPI
+# PivotGrid for DevExtreme - How to use PivotGrid with a WebAPI
 
-In this example you can see how to configure the PivotGrid component to work with remote WebAPI data service and Drill Down features.
+This example demonstrates how to configure the PivotGrid widget to work with remote WebAPI data service. In this example, the PivotGrid supports Remote Operations and Drill Down features.
+
+## Getting Started
+
+1. Clone the repository
+ ``` text
+ git clone https://github.com/DevExpress-Examples/devextreme-pivotgrid-with-webapi.git
+ ```
+
+2. Open the pivotgrid-webapi/pivotgrid-webapi.sln solution in Visual Studio 2015 or higher
 
 ## Documentation
 
 - [Getting Started with PivotGrid](https://js.devexpress.com/Documentation/Guide/UI_Components/PivotGrid/Getting_Started_with_PivotGrid/)
-
 - [PivotGrid - API Reference](https://js.devexpress.com/Documentation/ApiReference/UI_Components/dxPivotGrid/)
 
 ## More Examples
