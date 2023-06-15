@@ -4,7 +4,7 @@
 <!-- default badges end -->
 # PivotGrid for DevExtreme - How to use PivotGrid with a WebAPI
 
-This example demonstrates how to configure the PivotGrid widget to work with remote WebAPI data service. In this example, the PivotGrid supports Remote Operations and Drill Down features.
+This example shows how to configure the PivotGrid widget to work with the remote WebAPI data service. In this example, the PivotGrid supports remote operations and drill down.
 
 ## Getting Started
 
