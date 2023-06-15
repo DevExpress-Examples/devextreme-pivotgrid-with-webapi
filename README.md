@@ -8,12 +8,14 @@ This example shows how to configure the PivotGrid widget to work with the remote
 
 ## Getting Started
 
-1. Clone the repository
+1. Clone the repository.
  ``` text
  git clone https://github.com/DevExpress-Examples/devextreme-pivotgrid-with-webapi.git
  ```
 
-2. Open the pivotgrid-webapi/pivotgrid-webapi.sln solution in Visual Studio 2015 or higher
+2. Open the `pivotgrid-webapi/pivotgrid-webapi.sln` solution in Visual Studio 2015 or higher.
+
+3. Build and run the solution.
 
 ## Documentation
 
